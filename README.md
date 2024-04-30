@@ -1,4 +1,4 @@
-# 人形机器人创新挑战赛
+# 人形机器人仿真
 
 Bipedal Robot Challenge powered by TongVerse-Lite.
 
